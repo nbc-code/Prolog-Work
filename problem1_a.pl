@@ -1,0 +1,1 @@
+lcm(X,Y,Z) :- Z is lcm(X,Y).
